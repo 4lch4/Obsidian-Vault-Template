@@ -1,0 +1,45 @@
+{
+  "pluginEnabledStatus": {
+    "file-explorer": true,
+    "global-search": true,
+    "switcher": true,
+    "graph": true,
+    "backlink": true,
+    "command-palette": true,
+    "markdown-importer": true,
+    "word-count": true,
+    "open-with-default-app": true,
+    "tag-pane": true,
+    "starred": true,
+    "templates": true,
+    "outline": true
+  },
+  "enabledPlugins": [
+    "table-editor-obsidian",
+    "calendar",
+    "cm-editor-syntax-highlight-obsidian",
+    "find-unlinked-files",
+    "obsidian-mind-map"
+  ],
+  "cssTheme": "Obsdn-Dark-Rmx",
+  "spellcheck": true,
+  "enabledCssSnippets": [
+    "BlockQuotes",
+    "BulletPoints",
+    "CustomIcons",
+    "Hyphenation",
+    "TagPills"
+  ],
+  "attachmentFolderPath": "Assets/Attachments",
+  "spellcheckDictionary": [
+    "Integrations"
+  ],
+  "foldHeading": true,
+  "foldIndent": true,
+  "showFrontmatter": false,
+  "showLineNumber": true,
+  "tabSize": 2,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": false,
+  "translucency": false
+}
